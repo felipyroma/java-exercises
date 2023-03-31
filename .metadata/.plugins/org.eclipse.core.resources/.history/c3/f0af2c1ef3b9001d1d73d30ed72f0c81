@@ -1,0 +1,6 @@
+package application;
+
+public class Snippet {
+	Double perimeter = rectangle.area();
+}
+

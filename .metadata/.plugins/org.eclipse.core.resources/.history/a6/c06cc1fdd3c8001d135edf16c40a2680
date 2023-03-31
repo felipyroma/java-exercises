@@ -1,0 +1,28 @@
+package application;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import entities.Payer;
+
+public class Program {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		List<Payer> payer = new ArrayList<>();
+		
+		System.out.print("Enter the number of tax payers: ");
+		Integer numberPayers = sc.nextInt();
+		sc.nextLine();
+		
+		for (int i = 1; i <= numberPayers; i++) {
+			System.out.println("Tax payer #" + i + " data");
+			System.out.println("Individual or company? (i/c)");
+			char option = sc.next().charAt(0);
+			
+		}
+		
+		sc.close();
+	}
+}

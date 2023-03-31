@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;application.Banco&apos; to &apos;CadastroConta&apos;&#x0D;&#x0A;- Original project: &apos;exe_aula81_conta_bancaria&apos;&#x0D;&#x0A;- Original element: &apos;application.Banco&apos;&#x0D;&#x0A;- Renamed element: &apos;application.CadastroConta&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Banco&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;application{Banco.java[Banco" matchStrategy="1" name="CadastroConta" qualified="false" references="true" similarDeclarations="false" stamp="1678116863567" textual="false" version="1.0"/>
+</session>

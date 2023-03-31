@@ -1,0 +1,13 @@
+package entities;
+
+public class Individual extends Payer {
+	
+	private Double healthExpenditures;
+
+	@Override
+	public Double taxPaid() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

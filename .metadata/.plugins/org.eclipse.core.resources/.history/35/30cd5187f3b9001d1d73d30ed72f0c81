@@ -1,0 +1,11 @@
+package application;
+
+public class Media {
+	Double n1;
+	Double n2;
+	Double n3;
+	
+	public Media() {
+		String nome;
+	}
+}

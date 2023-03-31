@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author faroma
+ *
+ */
+module data {
+}

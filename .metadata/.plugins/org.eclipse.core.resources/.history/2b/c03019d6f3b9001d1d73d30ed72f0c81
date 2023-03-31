@@ -1,0 +1,11 @@
+package application;
+
+public class Aluno {
+	Double n1;
+	Double n2;
+	Double n3;
+	
+	public Aluno() {
+		String nome;
+	}
+}
