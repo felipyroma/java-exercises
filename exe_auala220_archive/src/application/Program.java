@@ -30,7 +30,7 @@ public class Program {
 		String path = "c:\\temp\\out\\summary.csv";
 
 		try (BufferedWriter bw = new BufferedWriter(new FileWriter(path))) {
-
+ 
 			for (Product product : products) {
 				bw.write(product.getName());
 				bw.write(", ");
